@@ -3295,3 +3295,178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.03-22.04.29:465][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.07.03-22.04.29:473][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
 [2019.07.03-22.04.29:503][216]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2019.07.03-22.12.02:093][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.07.03-22.12.02:093][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.03-22.12.02:584][676]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Level_00_Auto7C53B15114D789B751DA958A57CEB7E63.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto7.umap'
+[2019.07.03-22.12.02:593][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.571
+[2019.07.03-22.12.02:593][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.571
+[2019.07.03-22.17.21:519][669]LogEditorViewport: Clicking on Actor (LMB): BP_Bumper_C (BP_Bumper)
+[2019.07.03-22.17.25:818][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.03-22.17.28:140][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bumper.BP_Bumper
+[2019.07.03-22.18.21:078][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2019.07.03-22.18.21:172][728]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BP_BumperDD72221F42065B72DE3D64A3B338CB20.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2019.07.03-22.21.02:881][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PinballGameMode" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset" SILENT=true
+[2019.07.03-22.21.02:922][977]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballGameModeA99DE4894D91160FDFA9748673CE6D09.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset'
+[2019.07.03-22.21.49:808][370]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.21.49:837][370]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.21.49:837][370]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.03-22.21.49:838][370]LogPlayLevel: [PlayLevel] Compiling BP_Bumper before play...
+[2019.07.03-22.21.49:843][370]LogBlueprint: Error: [Compiler BP_Bumper] This blueprint (self) is not a PinballGameMode_C, therefore ' Target ' must have a connection.
+[2019.07.03-22.21.49:846][370]LogBlueprint: Warning: [Compiler BP_Bumper] [1769.25] Compile of BP_Bumper failed. 1 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/Blueprints/BP_Bumper.BP_Bumper)
+[2019.07.03-22.21.50:237][370]LogPlayLevel: [PlayLevel] Compiling PinballGameMode before play...
+[2019.07.03-22.21.50:675][370]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2019.07.03-22.21.50:675][370]LogPlayLevel: PlayLevel: Blueprint regeneration took 838 ms (2 blueprints)
+[2019.07.03-22.21.50:675][370]BlueprintLog: Blueprint BP_Bumper failed to compile
+[2019.07.03-22.21.56:328][370]LogSlate: Window 'Message' being destroyed
+[2019.07.03-22.22.11:749][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2019.07.03-22.22.11:834][119]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BP_BumperC3DCCD1A47CF7EC2A3D0A7AA8A423DEF.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2019.07.03-22.22.14:754][375]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.22.14:794][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.22.14:795][375]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.03-22.22.14:796][375]LogPlayLevel: [PlayLevel] Compiling BP_Bumper before play...
+[2019.07.03-22.22.14:800][375]LogBlueprint: Error: [Compiler BP_Bumper] This blueprint (self) is not a PinballGameMode_C, therefore ' Target ' must have a connection.
+[2019.07.03-22.22.14:803][375]LogBlueprint: Warning: [Compiler BP_Bumper] [1794.21] Compile of BP_Bumper failed. 1 Fatal Issue(s) 0 Warning(s) [in 8 ms] (/Game/Blueprints/BP_Bumper.BP_Bumper)
+[2019.07.03-22.22.15:239][375]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2019.07.03-22.22.15:239][375]LogPlayLevel: PlayLevel: Blueprint regeneration took 444 ms (1 blueprints)
+[2019.07.03-22.22.15:239][375]BlueprintLog: Blueprint BP_Bumper failed to compile
+[2019.07.03-22.22.19:356][375]LogSlate: Window 'Message' being destroyed
+[2019.07.03-22.22.23:080][575]BlueprintLog: New page: Compile BP_Plunger
+[2019.07.03-22.22.23:524][575]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2019.07.03-22.22.27:431][  9]BlueprintLog: New page: Compile BP_Bumper
+[2019.07.03-22.22.27:437][  9]LogBlueprint: Error: [Compiler BP_Bumper] This blueprint (self) is not a PinballGameMode_C, therefore ' Target ' must have a connection.
+[2019.07.03-22.22.27:838][  9]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2019.07.03-22.22.27:856][  9]LogBlueprint: Warning: [Compiler BP_Bumper] [1807.26] Compile of BP_Bumper failed. 1 Fatal Issue(s) 0 Warning(s) [in 424 ms] (/Game/Blueprints/BP_Bumper.BP_Bumper)
+[2019.07.03-22.22.40:934][548]BlueprintLog: New page: Compile BP_Bumper
+[2019.07.03-22.22.41:390][548]LogUObjectHash: Compacting FUObjectHashTables data took  14.04ms
+[2019.07.03-22.22.43:136][742]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.22.43:201][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.22.43:201][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.03-22.22.43:201][742]PIE: New page: PIE session: Level_00 (Jul 3, 2019, 4:22:43 PM)
+[2019.07.03-22.22.43:201][742]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2019.07.03-22.22.43:211][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010053s)
+[2019.07.03-22.22.43:212][742]LogAIModule: Creating AISystem for world Level_00
+[2019.07.03-22.22.43:212][742]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.07.03-22.22.43:212][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.011023s)
+[2019.07.03-22.22.43:309][742]LogUObjectHash: Compacting FUObjectHashTables data took  12.61ms
+[2019.07.03-22.22.43:316][742]LogInit: XAudio2 using 'Alto-falantes (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.03-22.22.43:328][742]LogInit: FAudioDevice initialized.
+[2019.07.03-22.22.43:330][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.22.43:361][742]LogLoad: Game class is 'PinballGameMode_C'
+[2019.07.03-22.22.43:364][742]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.07.03-19.22.43
+[2019.07.03-22.22.43:365][742]LogWorld: Bringing up level for play took: 0.002350
+[2019.07.03-22.22.43:376][742]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.03-22.22.43:379][742]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.969
+[2019.07.03-22.22.43:379][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.22.56:319][163]LogBlueprintUserMessages: [BP_Bumper_2] 0.0
+[2019.07.03-22.22.57:030][186]LogBlueprintUserMessages: [BP_Bumper3] 0.0
+[2019.07.03-22.23.01:564][336]LogBlueprintUserMessages: [BP_Bumper2] 0.0
+[2019.07.03-22.23.02:596][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.23.02:596][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.23.02:606][370]LogSlate: Window 'Pinball Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.03-22.23.02:681][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.03-22.23.02:681][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.23.02:762][370]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2019.07.03-22.23.02:841][371]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2019.07.03-22.23.10:026][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2019.07.03-22.23.10:095][ 47]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BP_Bumper8F98D1344331A452E1FDC3AB5A40589D.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2019.07.03-22.23.33:180][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PinballGameMode" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset" SILENT=true
+[2019.07.03-22.23.33:218][628]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballGameModeAF2BD8B74410FB5BBD03AD9F0AC943C6.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset'
+[2019.07.03-22.23.42:944][779]BlueprintLog: New page: Compile PinballGameMode
+[2019.07.03-22.23.43:378][779]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2019.07.03-22.23.43:836][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.23.43:868][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.23.43:868][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.03-22.23.43:868][824]PIE: New page: PIE session: Level_00 (Jul 3, 2019, 4:23:43 PM)
+[2019.07.03-22.23.43:869][824]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2019.07.03-22.23.43:882][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013509s)
+[2019.07.03-22.23.43:883][824]LogAIModule: Creating AISystem for world Level_00
+[2019.07.03-22.23.43:883][824]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2019.07.03-22.23.43:883][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.014769s)
+[2019.07.03-22.23.43:963][824]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2019.07.03-22.23.43:969][824]LogInit: XAudio2 using 'Alto-falantes (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.03-22.23.43:981][824]LogInit: FAudioDevice initialized.
+[2019.07.03-22.23.43:984][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.23.44:013][824]LogLoad: Game class is 'PinballGameMode_C'
+[2019.07.03-22.23.44:016][824]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.07.03-19.23.44
+[2019.07.03-22.23.44:016][824]LogWorld: Bringing up level for play took: 0.002239
+[2019.07.03-22.23.44:027][824]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.03-22.23.44:030][824]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.377
+[2019.07.03-22.23.44:030][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.23.51:901][ 72]LogBlueprintUserMessages: [BP_Bumper_2] 10.0
+[2019.07.03-22.23.52:145][ 80]LogBlueprintUserMessages: [BP_Bumper_2] 20.0
+[2019.07.03-22.23.55:377][186]LogBlueprintUserMessages: [BP_Bumper2] 30.0
+[2019.07.03-22.23.59:367][318]LogBlueprintUserMessages: [BP_Bumper3] 40.0
+[2019.07.03-22.24.09:829][668]LogBlueprintUserMessages: [BP_Bumper_2] 50.0
+[2019.07.03-22.24.13:391][787]LogBlueprintUserMessages: [BP_Bumper2] 60.0
+[2019.07.03-22.24.15:276][850]LogBlueprintUserMessages: [BP_Bumper3] 70.0
+[2019.07.03-22.24.18:131][946]LogBlueprintUserMessages: [BP_Bumper2] 80.0
+[2019.07.03-22.24.22:339][ 87]LogBlueprintUserMessages: [BP_Bumper3] 90.0
+[2019.07.03-22.24.23:177][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.24.23:178][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.24.23:188][115]LogSlate: Window 'Pinball Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.03-22.24.23:246][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.03-22.24.23:246][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.24.23:328][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.07.03-22.24.23:354][116]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2019.07.03-22.24.25:094][322]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.24.25:133][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.24.25:133][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.03-22.24.25:133][322]PIE: New page: PIE session: Level_00 (Jul 3, 2019, 4:24:25 PM)
+[2019.07.03-22.24.25:133][322]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2019.07.03-22.24.25:143][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010053s)
+[2019.07.03-22.24.25:144][322]LogAIModule: Creating AISystem for world Level_00
+[2019.07.03-22.24.25:144][322]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.07.03-22.24.25:144][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.010924s)
+[2019.07.03-22.24.25:212][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2019.07.03-22.24.25:217][322]LogInit: XAudio2 using 'Alto-falantes (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.03-22.24.25:229][322]LogInit: FAudioDevice initialized.
+[2019.07.03-22.24.25:232][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.24.25:257][322]LogLoad: Game class is 'PinballGameMode_C'
+[2019.07.03-22.24.25:259][322]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.07.03-19.24.25
+[2019.07.03-22.24.25:260][322]LogWorld: Bringing up level for play took: 0.002213
+[2019.07.03-22.24.25:271][322]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.03-22.24.25:274][322]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.868
+[2019.07.03-22.24.25:274][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.24.36:038][670]LogBlueprintUserMessages: [BP_Bumper_2] 10.0
+[2019.07.03-22.24.42:385][879]LogBlueprintUserMessages: [BP_Bumper3] 20.0
+[2019.07.03-22.24.45:082][968]LogBlueprintUserMessages: [BP_Bumper3] 30.0
+[2019.07.03-22.24.59:652][452]LogBlueprintUserMessages: [BP_Bumper3] 40.0
+[2019.07.03-22.25.01:791][523]LogBlueprintUserMessages: [BP_Bumper3] 50.0
+[2019.07.03-22.25.02:882][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.25.02:882][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.25.02:892][559]LogSlate: Window 'Pinball Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.03-22.25.02:954][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.03-22.25.02:955][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.25.03:035][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.07.03-22.25.03:062][560]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2019.07.03-22.25.29:656][542]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.03-22.25.29:692][542]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.25.29:693][542]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.07.03-22.25.29:694][542]LogPlayLevel: [PlayLevel] Compiling BP_Bumper before play...
+[2019.07.03-22.25.30:172][542]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2019.07.03-22.25.30:172][542]LogPlayLevel: PlayLevel: Blueprint regeneration took 479 ms (1 blueprints)
+[2019.07.03-22.25.30:172][542]PIE: New page: PIE session: Level_00 (Jul 3, 2019, 4:25:30 PM)
+[2019.07.03-22.25.30:172][542]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2019.07.03-22.25.30:181][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009200s)
+[2019.07.03-22.25.30:182][542]LogAIModule: Creating AISystem for world Level_00
+[2019.07.03-22.25.30:182][542]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.07.03-22.25.30:182][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.010097s)
+[2019.07.03-22.25.30:247][542]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.07.03-22.25.30:254][542]LogInit: XAudio2 using 'Alto-falantes (Dispositivo de High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.07.03-22.25.30:267][542]LogInit: FAudioDevice initialized.
+[2019.07.03-22.25.30:271][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.25.30:299][542]LogLoad: Game class is 'PinballGameMode_C'
+[2019.07.03-22.25.30:302][542]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2019.07.03-19.25.30
+[2019.07.03-22.25.30:303][542]LogWorld: Bringing up level for play took: 0.002326
+[2019.07.03-22.25.30:314][542]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.03-22.25.30:317][542]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.087
+[2019.07.03-22.25.30:317][542]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.26.05:362][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.26.05:363][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.03-22.26.05:373][694]LogSlate: Window 'Pinball Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.07.03-22.26.05:432][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.03-22.26.05:432][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level_00.Level_00:PersistentLevel' has LevelScriptBlueprint '/Game/Level_00.Level_00:PersistentLevel.Level_00' with GeneratedClass '/Game/Level_00.Level_00_C' with ClassGeneratedBy '/Game/Level_00.Level_00:PersistentLevel.Level_00'
+[2019.07.03-22.26.05:510][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2019.07.03-22.26.05:534][695]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2019.07.03-22.26.08:812][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2019.07.03-22.26.08:884][ 74]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BP_Bumper53CEFDF64B3ECF26FC79DC953D81A071.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset'
