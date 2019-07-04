@@ -1042,3 +1042,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.04-17.38.43:501][427]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Level_000D5E598E4237AB128AB13E83CA981610.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Level_00.umap'
 [2019.07.04-17.38.43:537][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00_BuiltData" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Level_00_BuiltData.uasset" SILENT=true
 [2019.07.04-17.38.43:582][427]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Level_00_BuiltData677F6BCD43D3587F4B4AE3A936BBDD91.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Level_00_BuiltData.uasset'
+[2019.07.04-18.15.19:272][948]LogSlate: Took 0.006964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.04-18.15.22:568][266]BlueprintLog: New page: Compile PinballGameMode
+[2019.07.04-18.15.22:879][266]LogUObjectHash: Compacting FUObjectHashTables data took   8.29ms
+[2019.07.04-18.16.23:827][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/PinballGameMode" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset" SILENT=true
+[2019.07.04-18.16.23:893][714]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballGameMode05EA6BB14A7AFCA6700A69B13FF89AE2.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/PinballGameMode.uasset'
+[2019.07.04-18.16.24:742][804]BlueprintLog: New page: Compile PinballGameMode
+[2019.07.04-18.16.25:068][804]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController_C' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:ReceiveTick' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:923][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:Plunger' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:RightFlippers' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:LeftFlippers' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.SKEL_PinballGameController_C:UserConstructionScript' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController_C:Plunger' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController_C:RightFlippers' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController_C:LeftFlippers' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:924][450]LogMetaData: Removing '/Game/Blueprints/PinballGameController.PinballGameController_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PinballGameController.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode:AddScore.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode:AddScore.K2Node_FunctionResult_0' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:AddScore' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:Score' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:Multiplier' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.PinballGameMode_C:BallRemaining' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:AddScore' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:UserConstructionScript' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:Score' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:Multiplier' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:BallRemaining' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:ReceiveTick' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:935][450]LogMetaData: Removing '/Game/Blueprints/PinballGameMode.SKEL_PinballGameMode_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/PinballGameMode.PackageMetaData'
+[2019.07.04-18.16.41:988][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameController" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballGameController.uasset" SILENT=true
+[2019.07.04-18.16.42:059][450]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballGameControllerE21753F34D46FE27B7B7DD9569F40F89.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballGameController.uasset'
+[2019.07.04-18.16.42:068][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2019.07.04-18.16.42:104][450]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballGameModeDB62117C4DA9DA5FE45FFF83A975F1EC.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballGameMode.uasset'
+[2019.07.04-18.16.42:686][450]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2019.07.04-18.16.42:734][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.07.04-18.16.42:787][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.07.04-18.16.42:833][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.07.04-18.16.42:886][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Bumper" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset" SILENT=true
+[2019.07.04-18.16.42:974][450]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BP_Bumper456E85FC4BF77773E5BEE48E7CA3A412.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BP_Bumper.uasset'
+[2019.07.04-18.16.42:985][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballHUD" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballHUD.uasset" SILENT=true
+[2019.07.04-18.16.43:021][450]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/PinballHUD9D7DFEAC4280CD3A3839028AA0C72373.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/PinballHUD.uasset'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea_C' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C:ReceiveBeginPlay' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C:ReceiveTick' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C:Box' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C:UserConstructionScript' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.SKEL_BallResetArea_C' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea_C:Box' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:466][917]LogMetaData: Removing '/Game/Blueprints/BallResetArea.BallResetArea_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Assets/BallResetArea.PackageMetaData'
+[2019.07.04-18.16.50:495][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BallResetArea" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BallResetArea.uasset" SILENT=true
+[2019.07.04-18.16.50:511][917]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BallResetArea468718A146F08AE40971E69504A266FF.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/BallResetArea.uasset'
+[2019.07.04-18.16.50:519][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BallResetArea" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/BallResetArea.uasset" SILENT=true
+[2019.07.04-18.16.50:539][917]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/BallResetArea8C4F5C9F428F46B22714BC9107341880.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Assets/BallResetArea.uasset'
+[2019.07.04-18.17.10:771][456]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.04-18.17.17:569][624]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.04-18.17.17:729][625]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2019.07.04-18.17.17:730][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.04-18.17.18:069][625]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Level_00_Auto4C91B1C1A4FB992F39A1CBB81A6EBBF34.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto4.umap'
+[2019.07.04-18.17.18:076][625]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.408
+[2019.07.04-18.17.18:076][625]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.408
+[2019.07.04-18.17.37:808][809]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2019.07.04-18.17.37:809][809]LogMetaData: Removing '/Game/Blueprints/HighScoreSave.SKEL_HighScoreSave_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.04-18.17.37:809][809]LogMetaData: Removing '/Game/Blueprints/HighScoreSave.HighScoreSave_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2019.07.04-18.17.37:837][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreSave" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset" SILENT=true
+[2019.07.04-18.17.37:843][809]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave56E709084C731F0A9113E7A75DB95D09.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset'
+[2019.07.04-18.17.38:109][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2019.07.04-18.17.38:163][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.07.04-18.17.38:208][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.04-18.17.39:236][826]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/HighScoreSave.HighScoreSave
+[2019.07.04-18.17.56:588][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreSave" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset" SILENT=true
+[2019.07.04-18.17.56:632][157]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave695F6CDF42BFB51E4F591E969AB5506A.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset'
+[2019.07.04-18.18.06:778][558]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.04-18.18.35:993][424]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/Blueprints/HighScoreStruct.HighScoreStruct
+[2019.07.04-18.18.57:640][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreStruct" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreStruct.uasset" SILENT=true
+[2019.07.04-18.18.57:648][913]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreStruct0F77CEF54A9C06270E5B70B6E7035BF6.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreStruct.uasset'
+[2019.07.04-18.27.18:554][444]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2019.07.04-18.27.18:555][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.07.04-18.27.18:896][444]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Level_00_Auto57048C4AF4EF412BF01CB98A464721784.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Level_00_Auto5.umap'
+[2019.07.04-18.27.18:901][444]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.408
+[2019.07.04-18.27.18:901][444]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.408
+[2019.07.04-18.27.18:905][444]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2019.07.04-18.27.18:905][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2019.07.04-18.27.18:937][444]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave_Auto53A5D356C4FE1E94268736D9B3D8069B5.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto5.uasset'
+[2019.07.04-18.27.18:939][444]LogFileHelpers: Auto-saving content packages took 0.035
+[2019.07.04-18.37.19:212][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2019.07.04-18.37.19:213][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.056
+[2019.07.04-18.37.19:214][511]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2019.07.04-18.37.19:214][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2019.07.04-18.37.19:265][511]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave_Auto6095347A3479A90CD26D0839ED07A9343.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto6.uasset'
+[2019.07.04-18.37.19:267][511]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.07.04-18.54.31:526][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.07.04-18.54.31:526][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.056
+[2019.07.04-18.54.31:528][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2019.07.04-18.54.31:528][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2019.07.04-18.54.31:578][955]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave_Auto7353945E9460149201F95D5BBF897B8CF.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto7.uasset'
+[2019.07.04-18.54.31:580][955]LogFileHelpers: Auto-saving content packages took 0.053
+[2019.07.04-19.04.32:300][589]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2019.07.04-19.04.32:300][589]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.065
+[2019.07.04-19.04.32:301][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2019.07.04-19.04.32:301][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2019.07.04-19.04.32:356][589]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave_Auto8DDA6232848440A41AFCDC5B55E902AE2.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto8.uasset'
+[2019.07.04-19.04.32:358][589]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.07.04-19.17.22:132][281]LogEditorTransaction: Undo Rename Variable
+[2019.07.04-19.17.22:585][317]LogEditorTransaction: Undo Rename Variable
+[2019.07.04-19.17.29:421][132]LogEditorTransaction: Undo Rename Function
+[2019.07.04-19.18.44:826][949]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.07.04-19.18.44:826][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.056
+[2019.07.04-19.18.44:828][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreSave] ([1] browsable assets)...
+[2019.07.04-19.18.44:828][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreSave]
+[2019.07.04-19.18.44:894][949]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave_Auto958B307B246835A9F86EEC8BFA8AE42BB.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/Autosaves/Game/Blueprints/HighScoreSave_Auto9.uasset'
+[2019.07.04-19.18.44:896][949]LogFileHelpers: Auto-saving content packages took 0.068
+[2019.07.04-19.20.37:803][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreSave" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset" SILENT=true
+[2019.07.04-19.20.37:855][ 92]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave755352AC4B58E0FC169B9EB0B738120D.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset'
+[2019.07.04-19.20.40:044][349]BlueprintLog: New page: Compile HighScoreSave
+[2019.07.04-19.20.40:112][349]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.07.04-19.21.03:042][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreSave" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset" SILENT=true
+[2019.07.04-19.21.03:109][ 71]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave7D23616140DFB2AD9800819CF282D451.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset'
+[2019.07.04-19.21.11:616][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreSave" FILE="../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset" SILENT=true
+[2019.07.04-19.21.11:685][422]LogSavePackage: Moving '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Saved/HighScoreSave86072C1A49DC2F37DBB372B55EBF13BB.tmp' to '../../../../../../Users/ficosta/Documents/GIT/unreale4/Pinball/Content/Blueprints/HighScoreSave.uasset'
